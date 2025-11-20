@@ -2,7 +2,7 @@
 
 _Templates, Fichas, Teórico e PAPs_
 
-Repositório central com os links para as fichas, respetivas resoluções e material teórico alojadas noutros repositórios GitHub. Conteúdos dos módulos: Node.js, Express, EJS, MongoDB e React.
+Repositório central com os links para os repositórios de fichas, respetivas resoluções, material teórico alojadas e documentação das PAP's.
 
 ## Material Teórico
 
