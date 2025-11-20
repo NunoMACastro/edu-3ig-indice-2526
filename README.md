@@ -15,6 +15,15 @@ Repositório central com os links para as fichas, respetivas resoluções e mate
 | Ficha 4                          | Em breve...                                                                    | Ainda sem resolução |
 | Ficha 5                          | Em breve...                                                                    | Ainda sem resolução |
 
+## Índice para os Repositórios das PAPs (do professor)
+
+| Projeto    | Repositório                                                                                                   |
+| ---------- | ------------------------------------------------------------------------------------------------------------- |
+| Study Flow | [Repositório Study Flow](https://github.com/NunoMACastro/edu-PAP-3ig-studyflow-2526 "Repositório Study Flow") |
+| Faithflix  | [Repositório Faithflix](https://github.com/NunoMACastro/edu-PAP-3ig-faithflix-2526 "Repositório Faithflix")   |
+| OPSA       | [Repositório OPSA](https://github.com/NunoMACastro/edu-PAP-3ig-opsa-2526 "Repositório OPSA")                  |
+| Orélle     | [Repositório Orélle](https://github.com/NunoMACastro/edu-PAP-3ig-orelle-2526 "Repositório Orélle")            |
+
 ---
 
 ## Como usar
