@@ -17,7 +17,7 @@ Repositório central com os links para os repositórios de fichas, respetivas re
 | Ficha 4                          | Em breve...                                                                    | Ainda sem resolução |
 | Ficha 5                          | Em breve...                                                                    | Ainda sem resolução |
 
-## Índice para os Repositórios das PAPs (do professor)
+## Documentação das PAPs
 
 | Projeto    | Repositório                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------- |
