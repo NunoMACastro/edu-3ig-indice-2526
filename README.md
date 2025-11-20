@@ -28,7 +28,7 @@ Repositório central com os links para os repositórios de fichas, respetivas re
 
 ---
 
-## Como usar
+## Como usar para fazer as fichas
 
 -   Encontra aqui o atalho para cada ficha e solução publicada.
 -   Cada repositório das fichas tem um template para a estrutura base dessa ficha.
