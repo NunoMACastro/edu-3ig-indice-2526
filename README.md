@@ -2,6 +2,10 @@
 
 Repositório central com os links para as fichas, respetivas resoluções e material teórico alojadas noutros repositórios GitHub. Conteúdos dos módulos: Node.js, Express, EJS, MongoDB e React.
 
+## Material Teórico
+
+[Material Teórico](https://github.com/NunoMACastro/edu-docs-3ig-js-guias-2526 "Material Teórico")
+
 ## Índice de Fichas
 
 | Tema/Stack                       | Ficha                                                                          | Resolução           |
@@ -10,10 +14,6 @@ Repositório central com os links para as fichas, respetivas resoluções e mate
 | Ficha 3                          | Em breve...                                                                    | Ainda sem resolução |
 | Ficha 4                          | Em breve...                                                                    | Ainda sem resolução |
 | Ficha 5                          | Em breve...                                                                    | Ainda sem resolução |
-
-## Material Teórico
-
-[Material Teórico](https://github.com/NunoMACastro/edu-docs-3ig-js-guias-2526 "Material Teórico")
 
 ---
 
