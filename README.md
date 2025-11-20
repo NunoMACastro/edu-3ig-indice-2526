@@ -1,6 +1,6 @@
 # Índice de Repositórios - 12.º IG (E.P. Mariana Seixas)
 
-_ Templates, Fichas, Teórico e PAPs _
+_Templates, Fichas, Teórico e PAPs_
 
 Repositório central com os links para as fichas, respetivas resoluções e material teórico alojadas noutros repositórios GitHub. Conteúdos dos módulos: Node.js, Express, EJS, MongoDB e React.
 
